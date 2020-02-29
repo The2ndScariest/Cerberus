@@ -183,3 +183,8 @@ if __name__ == '__main__':
         utils.RedisConnection.pool.close()
     logger.info("Closing asyncio loop")
     loop.close()
+
+    please work
+    dont break
+    be good
+    i love you Caleb <3
